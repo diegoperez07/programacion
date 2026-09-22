@@ -1,3 +1,5 @@
+![Texto alternativo](Snoop Dogg.jpg)
+
 # programacion
 
 ---
