@@ -1,7 +1,7 @@
 
 # programacion
 
-![Texto alternativo](SnoopDogg.jpg)
+![Texto alternativo](hola.jpg)
 
 
 ---
