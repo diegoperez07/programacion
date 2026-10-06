@@ -10,4 +10,4 @@
 | 2    | 2         | [ejercicio2](volumencono.java) | Escribe un programa que calcule el volumen de un cono 
 | 2    | 3         | [ejercicio3](mbakb.java) | Realiza un conversor de Mb a Kb.
 | 2    | 4         | [ejercicio4](kbamb.java) | Realiza un conversor de Kb a Mb
-| 2    | 5         | [ejercicio5]() |
+| 2    | 5         | [ejercicio5](mostrarvalordecimal.java) | mostrar a valor decimal
