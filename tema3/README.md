@@ -8,5 +8,5 @@
 | 3    | 1         | [ejercicio1](horarioexacto.java) | Escribe un programa que pida por teclado un día de la semana y que diga qué asignatura toca a primera hora ese día
 | 3    | 2         | [ejercicio2](buendia.java) | Realiza un programa que pida una hora por teclado y que muestre luego buenos días, buenas tardes o buenas noches según la hora
 | 3    | 3         | [ejercicio3](horoscopo.java) | hacer el horoscopo
-| 3    | 4         | [ejercicio4]() | 
-| 3    | 5         | [ejercicio5]() | 
+| 3    | 4         | [ejercicio4](nuentero.java) | Realiza un programa que diga si un número entero positivo introducido por teclado es capicúa. Se permiten números de hasta 5 cifras.
+| 3    | 5         | [ejercicio5](notaprogramacion.java) | Calcula la nota de un trimestre de la asignatura Programación. 
