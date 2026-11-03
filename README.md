@@ -10,3 +10,7 @@
 | 1    | 3         | [ejercicio3](ejercicio3.java) | Añadir teléfono y dirección al código anterior
 | 1    | 4         | [ejercicio4](ejercicio4.java) | Escribir un programa que muestre 10 palabras en ingles y su traducción al castellano
 | 1    | 5         | [ejercicio5](ejercicio5.java) | programa que muestra mi horario de clase 
+
+
+
+
